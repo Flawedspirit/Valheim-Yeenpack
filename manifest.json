@@ -1,0 +1,19 @@
+{
+    "name": "Flawed's Yeenpack",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Mods used for my private server, The 69 Realms.",
+    "dependencies": [
+        "Frogger-ChestSnap-0.0.3",
+        "DarnHyena-Cackleheim-3.4.0",
+        "ValheimPlus-ValheimPlus-9.9.11",
+        "ValheimModding-Jotunn-2.10.3",
+        "bdew-QuickConnect-1.6.0",
+        "Advize-PlantEverything-1.13.0",
+        "Nexus-FarmGrid-0.2.0",
+        "Azumatt-Official_BepInEx_ConfigurationManager-17.0.0",
+        "denikson-BepInExPack_Valheim-5.4.1901",
+        "JSN-CharacterEditButton-0.5.1",
+        "remmiz-SimpleRecycling_Fixed-0.0.15"
+    ]
+}
